@@ -12,10 +12,10 @@ https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 #EXTINF:-1, 南方卫视
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
 #EXTINF:-1, 中央一台
-http://120.196.232.20:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226737/1.m3u8
+http://cfss.cc/api/ysp/cctv1.m3u8
 #EXTINF:-1, 中央三台
-http://120.196.232.50:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/1.m3u8
+http://cfss.cc/api/ysp/cctv3.m3u8
 #EXTINF:-1, 中央四台
-http://120.196.232.27:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226725/1.m3u8
+http://cfss.cc/api/ysp/cctv4.m3u8
 #EXTINF:-1, 中央五台
-http://120.196.232.31:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226731/1.m3u8
+http://cfss.cc/api/ysp/cctv5.m3u8
