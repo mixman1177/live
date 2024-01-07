@@ -9,7 +9,18 @@ https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 tvg-id="6029" tvg-name="人间卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png" group-title="港澳台",人间卫视
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+#EXTINF:-1, 中央一台
+https://raw.githubusercontent.com/mixman1177/live/main/CCTV1_ysp.m3u8
+#EXTINF:-1, 中央三台
+https://raw.githubusercontent.com/mixman1177/live/main/CCTV3_ysp.m3u8
 #EXTINF:-1, 中央四台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
-#EXTINF:-1, 中央一台
-http://cfss.cc/Cf/ysp/cctv1-45133.m3u8
+#EXTINF:-1, 中央四台
+https://raw.githubusercontent.com/mixman1177/live/main/CCTV4_ysp.m3u8
+#EXTINF:-1, 中央四台
+https://raw.githubusercontent.com/mixman1177/live/main/CCTV4.m3u8
+#EXTINF:-1, 中央五台
+https://raw.githubusercontent.com/mixman1177/live/main/CCTV5_ysp.m3u8
+#EXTINF:-1, 中央五台體育賽事
+https://raw.githubusercontent.com/mixman1177/live/main/CCTV5+_ysp.m3u8
+
