@@ -6,7 +6,6 @@ J2台,https://live.hkdvb.com/hls/live/82.m3u8?token=708925747957042
 大爱二台,https://raw.githubusercontent.com/mixman1177/live/main/DAAI2.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 中央一台,https://app.taoiptv.com/api/Yshipin.php?id=cctv1
-中央三台,http://110.53.191.212:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&down=1
 中央三台,https://app.taoiptv.com/api/Yshipin.php?id=cctv3
 中央四台,https://raw.githubusercontent.com/mixman1177/live/main/CCTV4.m3u8
 中央四台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
