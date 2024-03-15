@@ -1,0 +1,24 @@
+{
+    "spider": "",
+    "lives": [{
+            "name": "TV Live",
+            "type": 0,
+            "url": "https://s2.pub/2lg",
+                    "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        }, {
+            "group": "redirect",
+            "channels": [{
+                    "name": "live",
+                    "urls": []
+                }
+            ],
+            "epg": "https://epg.112114.xyz/"
+        }
+    ],
+    "rules": [],
+    "sites": [],
+    "parses": [],
+    "flags": [],
+    "wallpaper": ""
+}
