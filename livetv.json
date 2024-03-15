@@ -3,7 +3,7 @@
     "lives": [{
             "name": "TV Live",
             "type": 0,
-            "url": "https://s2.pub/2lg",
+            "url": "https://raw.githubusercontent.com/mixman1177/live/main/livetv.json",
                     "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         }, {
